@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitUserApp</string>
+    <string name="repository">repository</string>
+</resources>
